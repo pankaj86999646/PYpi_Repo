@@ -4,7 +4,7 @@ python:
 install:
   - pip install -r requirements.txt  # Install dependencies
 script:
-  - python tests.py  # Replace with the command to run your tests
+  - python hello_world.py
 deploy:
   provider: pypi
   username: pankaj86999646
