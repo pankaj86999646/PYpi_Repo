@@ -1,5 +1,6 @@
 deploy:
   provider: pypi
   username: pankaj86999646
-  password: password
-  edge: true # opt in to dpl v2
+  password:
+    secure: lPgp7n2fI7YPfsEjwMw3Htmj3it8RvA2oYBN7F/Qp9eZFViaSQXvI5sFFzaNYTAD/27q4OMl/E3bBedB6KUSVz9kwottl5p3/zAb4SwMu+DH5rlP5wTGyv00oL+/mQdZnq/f9mbT75R1Dm7dxkyngAwcUgI1ANg3hJ6K3GP3QFEiKxugSwjhYhUEfyAymYgu7vOm+1vmi5waXb7yXpxdWKgkRUmSyYFrOjoIOWAltsXrHJocEfVRpOAfo+GEcgx23EDSdsIdkFmBvQvZ4t81PavYy9KFqHbmTBuyIuky+4+Im5/BaGxwPrtzTXN9xJFRUVal9C+HlWlo5y86o0FhD/tVWcMRnpDwiyVOyaBGwliDbLEhcdhkNwFfSXnkMdB8+zMKd97fRZXz8vz5B5UBQBw5FogxRgazXsTJrGmU8DhkEsLHUbXdiOm2TUPrl/nhmrDeR4v2HXjaFgFnPjQSEM2mKnK4J/2KHPOjACTkShQGrkPdEt0VshD4QeQInIX8+ArJBbX92Voa/rl80egNqGCrgrqn5piZtaAl5oSkxmUMETxUCjud2/Mn2/RboAPLtBbCuC7qvU27tpiMMJcvP3DUWrugI3YVEuAjixDEpOQGR/6sd8VaRfrZNd/1DBSN0YzWp4EyOuMKpoRMBzRipGIncQPMlQLI+PvfYqB43RE=
+  edge: true
